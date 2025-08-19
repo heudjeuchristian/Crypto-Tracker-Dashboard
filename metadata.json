@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Tracker Dashboard",
+  "description": "A dashboard to view real-time cryptocurrency prices and historical price charts, with data powered by AI.",
+  "requestFramePermissions": []
+}
